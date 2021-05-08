@@ -26,7 +26,7 @@ If this work (or any code present) is helpful, please cite as:
 ```
 
 ## Contacts
-|Project member |e-mail address |
+|Author |e-mail address |
 |---|---|
 | [Gabriele Pisciotta](https://github.com/GabrielePisciotta)  | ga.pisciotta@gmail.com |
 | [Miriana Somenzi](https://github.com/mirianasomenzi) | m.somenzi@studenti.unipi.it |
