@@ -25,7 +25,7 @@ or with BibTex:
   booktitle={"The 9th International Conference on Complex Networks and Their Applications - Book of Abstracts."},
   doi={"10.5281/zenodo.4741056"},
   pages={"322--324"},
-  year={2020}
+  year={"2020"}
 }
 ```
 
