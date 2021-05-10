@@ -1,6 +1,6 @@
 # Sockpuppet Detection: a Telegram case study
 [[Paper]](https://github.com/GabrielePisciotta/sockpuppet-detection-a-telegram-case-study/extended_abstract.pdf) | 
-[[Book of Abstracts]](https://zenodo.org/record/4741056) |
+[[Book of Abstracts]](https://zenodo.org/record/4744934) |
 [[Best Presentation Award]](https://2020.complexnetworks.org/awards/) |
 [[Conference video]](https://www.youtube.com/watch?v=2fNYiQUoXIc) 
 
@@ -18,7 +18,7 @@ In Online Social Networks (OSN) numerous are the cases in which users create mul
 ## Citation ##
 If this work (or any code present) is helpful, please cite as:
 
-```Pisciotta, G., Somenzi, M., Barisani, E., & Rossetti, G. (2020). Sockpuppet Detection: a Telegram Case Study. In The 9th International Conference on Complex Networks and Their Applications - Book of Abstracts. (pp. 322–324). DOI: 10.5281/zenodo.4741056 ```
+```Pisciotta, G., Somenzi, M., Barisani, E., Rossetti, G. (2021). Sockpuppet Detection: a Telegram Case Study. In: The 9th International Conference on Complex Networks and Their Applications - Book of Abstracts. (pp. 322–324). ISBN: 978-2-9557050-4-9. DOI: 10.5281/zenodo.4741056 ```
 
 or with BibTex:
 ```
@@ -27,6 +27,7 @@ or with BibTex:
   author={"Pisciotta, Gabriele and Somenzi, Miriana and Barisani, Elisa and Rossetti, Giulio"},
   booktitle={"The 9th International Conference on Complex Networks and Their Applications - Book of Abstracts."},
   doi={"10.5281/zenodo.4741056"},
+  isbn={"978-2-9557050-4-9"},
   pages={"322--324"},
   year={"2020"}
 }
